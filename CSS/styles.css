@@ -13,7 +13,7 @@ h1 {
 }
 .flexible-content {
   display: flex;
-  padding-bottom: 150px;
+  padding-bottom: 100px;
 }
 .half-width {
   width: 50%;
